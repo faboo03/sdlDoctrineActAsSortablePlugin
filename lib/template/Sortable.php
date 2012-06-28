@@ -279,7 +279,7 @@ class Doctrine_Template_Sortable extends Doctrine_Template
   public function sortTableProxy($order)
   {
     /*
-      TODO
+            TODO
         - Add proper error messages.
     */
     $table = $this->getInvoker()->getTable();
